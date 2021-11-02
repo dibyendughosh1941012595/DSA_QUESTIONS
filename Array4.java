@@ -1,6 +1,6 @@
 /* https://codeforces.com/contest/1501/problem/B */
 
-import java.util.*;
+ import java.util.*;
 public class Array4 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
